@@ -4,7 +4,7 @@
 * Analysing the dataset
 * Treating the null values by replacing them by using KNNImputer
 * Scaling are done to normalize the data
-* Later train_test_split are held to start the modeling with test_size of 30%
+* Later train_test_split are held to start the base modeling with test_size of 30%
 * By intial LogisticRegression are performed and accuracy are measured
 * Future selection and cross validation are held to get coefficient of variation value
 * By making dessiontree and randomforest to look though the best model
