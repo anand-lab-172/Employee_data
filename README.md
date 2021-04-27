@@ -1,5 +1,5 @@
 # Employee_data
- This project is based on the prediction of GDP of every country in the world Model prediction is created in supervised regression. There are several operations are held in this project which includes:
+ This project is based on the employee of the company Model prediction is created in supervised classification. There are several operations are held in this project which includes:
 
 * Analysing the dataset
 * Treating the null values by replacing them by using KNNImputer
